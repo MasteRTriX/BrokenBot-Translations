@@ -1,1 +1,3 @@
 # BrokenBot
+
+Translation files repository
